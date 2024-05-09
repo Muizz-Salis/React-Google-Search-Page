@@ -1,0 +1,59 @@
+.glogo{
+width: 230px;
+display: block;
+margin: auto;
+margin-top: 80px;
+}
+/* .searchInput{
+    width: 40%;
+    display: block;
+    margin: auto;
+    padding: 10px;
+    border-radius: 16px;
+} */
+
+.box{
+    /* border: 0px solid black; */
+    width: 45%;
+    padding: 10px;
+    padding-right: 5px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 16px;
+    border: 0.1px solid rgb(210, 204, 204);
+
+}
+.box:hover{
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.gs{
+    border: 0.1px solid rgb(210, 204, 204);
+    /* border: 1px solid black; */
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+
+    
+}
+.fl{
+    border: 0.1px solid rgb(210, 204, 204);
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+    padding: 10px;
+    background-color: hsl(210, 17%, 98%);
+    border-radius: 5px;
+
+}
+.gs-fl{
+/* margin: auto; */
+/* text-align: center; */
+margin-top: 25px;
+gap: 10px;
+display: flex;
+justify-content: center;
+}
